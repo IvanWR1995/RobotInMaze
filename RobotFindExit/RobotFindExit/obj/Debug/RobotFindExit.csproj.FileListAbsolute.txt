@@ -1,0 +1,9 @@
+c:\users\шумаков иван\documents\visual studio 2013\Projects\RobotFindExit\RobotFindExit\bin\Debug\RobotFindExit.exe.config
+c:\users\шумаков иван\documents\visual studio 2013\Projects\RobotFindExit\RobotFindExit\bin\Debug\RobotFindExit.exe
+c:\users\шумаков иван\documents\visual studio 2013\Projects\RobotFindExit\RobotFindExit\bin\Debug\RobotFindExit.pdb
+c:\users\шумаков иван\documents\visual studio 2013\Projects\RobotFindExit\RobotFindExit\obj\Debug\RobotFindExit.csprojResolveAssemblyReference.cache
+c:\users\шумаков иван\documents\visual studio 2013\Projects\RobotFindExit\RobotFindExit\obj\Debug\RobotFindExit.exe
+c:\users\шумаков иван\documents\visual studio 2013\Projects\RobotFindExit\RobotFindExit\obj\Debug\RobotFindExit.pdb
+C:\Users\Шумаков Иван\Repositories\RobotInMaze\RobotFindExit\RobotFindExit\bin\Debug\RobotFindExit.exe.config
+C:\Users\Шумаков Иван\Repositories\RobotInMaze\RobotFindExit\RobotFindExit\obj\Debug\RobotFindExit.exe
+C:\Users\Шумаков Иван\Repositories\RobotInMaze\RobotFindExit\RobotFindExit\obj\Debug\RobotFindExit.pdb
